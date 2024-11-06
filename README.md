@@ -4,4 +4,4 @@
 
 - estou estudando no alura
 - tenho 16 anos
--sou estudante da escola edina 
+- sou estudante da escola edina 
